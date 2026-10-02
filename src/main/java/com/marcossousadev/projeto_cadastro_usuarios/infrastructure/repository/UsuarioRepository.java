@@ -1,5 +1,6 @@
-package com.marcossousadev.projeto_cadastro_usuarios.infrastructure.entitys.repository;
+package com.marcossousadev.projeto_cadastro_usuarios.infrastructure.repository;
 
+import com.marcossousadev.projeto_cadastro_usuarios.infrastructure.entitys.Usuario;
 import jakarta.transaction.Transactional;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

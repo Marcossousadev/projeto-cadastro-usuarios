@@ -1,8 +1,7 @@
-package com.marcossousadev.projeto_cadastro_usuarios.infrastructure.entitys.repository;
+package com.marcossousadev.projeto_cadastro_usuarios.infrastructure.entitys;
 
 import jakarta.persistence.*;
 import lombok.*;
-import org.springframework.stereotype.Service;
 
 @Getter
 @Setter

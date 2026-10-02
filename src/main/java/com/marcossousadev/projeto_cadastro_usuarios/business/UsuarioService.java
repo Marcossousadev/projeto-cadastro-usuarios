@@ -1,8 +1,7 @@
 package com.marcossousadev.projeto_cadastro_usuarios.business;
 
-import com.marcossousadev.projeto_cadastro_usuarios.infrastructure.entitys.repository.Usuario;
-import com.marcossousadev.projeto_cadastro_usuarios.infrastructure.entitys.repository.UsuarioRepository;
-import org.springframework.beans.factory.annotation.Autowired;
+import com.marcossousadev.projeto_cadastro_usuarios.infrastructure.entitys.Usuario;
+import com.marcossousadev.projeto_cadastro_usuarios.infrastructure.repository.UsuarioRepository;
 import org.springframework.stereotype.Service;
 
 @Service
